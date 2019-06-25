@@ -1,2 +1,5 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
+
+"today is tuesday"
+"Did anyone watch Toy Story 4?"
